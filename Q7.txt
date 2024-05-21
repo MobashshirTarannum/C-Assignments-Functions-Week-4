@@ -1,0 +1,5 @@
+ Q7: Explore:
+ Can the same function name be used for different functions without any conflict?
+
+ answer is  no
+
